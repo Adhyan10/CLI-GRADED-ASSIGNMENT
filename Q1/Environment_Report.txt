@@ -1,5 +1,5 @@
 
-Environment Verification Report
+Environment Verification Report:
 
 1. User Identity
 The id command was used to display user and group information.
